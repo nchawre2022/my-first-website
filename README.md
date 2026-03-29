@@ -2,7 +2,7 @@
 
 A clean and simple "Hello World" webpage built with HTML and CSS.
 
-![Website Preview](https://via.placeholder.com/800x400?text=Hello+World+Preview)
+![Website Preview](https://via.placeholder.com/800x400?text=Hello+World+Preview) 
 
 ## ✨ Features
 
